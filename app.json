@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/home/home"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#3883fA",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "今日天气",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  },
+  "sitemapLocation": "sitemap.json"
+}

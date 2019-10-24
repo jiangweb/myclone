@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<!-- 页面向组件传递数据 -->
+<h-one title="你猜啊，老弟" />
+

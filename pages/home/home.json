@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "h-one":"/components/one/index"
+  }
+}
